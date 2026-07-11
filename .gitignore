@@ -1,0 +1,15 @@
+# Compiled binaries
+calculator
+calculator.exe
+*.o
+*.out
+*.exe
+
+# Build directories
+build/
+bin/
+
+# OS/editor files
+.DS_Store
+.vscode/
+*.swp
