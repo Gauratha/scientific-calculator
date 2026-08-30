@@ -61,8 +61,8 @@ Answer: 8
 - Invalid (non-numeric) input at a number prompt can cause repeated invalid prompts; type only numeric values when asked for `num1`/`num2`.
 
 ## Author
-
-Built as a college project.
+Shabd Gaur
+Built as a fun project.
 
 ## License
 
